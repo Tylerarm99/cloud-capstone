@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloud IT Services</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">Cloud IT Services</div>
+
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="resume.html">Resume</a>
+            <a href="team.html">Team</a>
+        </div>
+    </nav>
+
+    <section class="hero">
+
+        <div class="hero-content">
+
+            <p class="welcome">WELCOME TO OUR CLOUD PROJECT</p>
+
+            <h1>
+                IT & Cybersecurity
+                <span>Services</span>
+            </h1>
+
+            <p class="description">
+                A cloud-based IT services project demonstrating
+                cybersecurity, networking, cloud computing,
+                automation, and infrastructure-as-code.
+            </p>
+
+            <div class="buttons">
+
+                <a href="resume.html" class="button primary">
+                    View Resume
+                </a>
+
+                <a href="team.html" class="button secondary">
+                    Meet Our Team
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="services">
+
+        <h2>Our Technical Skills</h2>
+
+        <div class="service-container">
+
+            <div class="service-card">
+                <h3>Cybersecurity</h3>
+                <p>
+                    Security fundamentals, threat awareness,
+                    access control, and system protection.
+                </p>
+            </div>
+
+            <div class="service-card">
+                <h3>Cloud Computing</h3>
+                <p>
+                    Azure cloud services, serverless computing,
+                    storage, databases, and monitoring.
+                </p>
+            </div>
+
+            <div class="service-card">
+                <h3>Networking</h3>
+                <p>
+                    Network design, TCP/IP, DNS, routing,
+                    VLANs, and troubleshooting.
+                </p>
+            </div>
+
+            <div class="service-card">
+                <h3>Automation</h3>
+                <p>
+                    Terraform infrastructure-as-code,
+                    GitHub, and automated deployments.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="project">
+
+        <h2>Cloud Capstone Project</h2>
+
+        <p>
+            This website is part of a four-week cloud computing
+            capstone project demonstrating static hosting, APIs,
+            databases, Infrastructure-as-Code, CI/CD, monitoring,
+            logging, DNS, and HTTPS.
+        </p>
+
+        <div class="visitor-box">
+            <strong>Visitors:</strong>
+            <span id="visitor-count">Coming Soon</span>
+        </div>
+
+    </section>
+
+    <footer>
+        <p>© 2026 Cloud IT Services | Cloud Capstone Project</p>
+    </footer>
+
+</body>
+</html>
